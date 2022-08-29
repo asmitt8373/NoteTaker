@@ -1,6 +1,6 @@
 # NoteTaker
 
-#Table of Contents
+# Table of Contents
 - installation
 - summary 
 - usage 
